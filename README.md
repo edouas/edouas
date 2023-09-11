@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a nascent data scientist who is about to start his masters at UW in Seattle, and I'm happily excited about it!
+I am a nascent data scientist with a background in pure mathematics who is about to start his masters at UW in Seattle, and I'm happily excited about it!
 
 My current goal is to find an internship that will allow me to apply the large amount of theory I've learned over the past few years, along with the abstract problem-solving skills I've gained along the way. I've read that data science is 1/3 domain-specific knowledge. This is the part I'm currently excited about exploring and sinking my teeth into, especially if that domain has anything to do with the natural sciences, engineering, government agencies, or healthcare. 
 
